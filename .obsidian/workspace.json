@@ -1,0 +1,180 @@
+{
+  "main": {
+    "id": "c6c6cb23e08b8d7c",
+    "type": "split",
+    "children": [
+      {
+        "id": "bbaa1d840ab55951",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "947c3226cb9285ac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Transparency and Trust/Impact Dashboard.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Impact Dashboard"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7555245219fe5594",
+    "type": "split",
+    "children": [
+      {
+        "id": "dbdff10b17a6d40f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7878226663c98ff1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "14c9066bd6fd2279",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "604ad6a6a1455597",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "de761715b5fade99",
+    "type": "split",
+    "children": [
+      {
+        "id": "5e01e9f624ebd68a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "49fd0baf67ca259a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Transparency and Trust/Impact Dashboard.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Impact Dashboard"
+            }
+          },
+          {
+            "id": "9108c57b40ded5ed",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Transparency and Trust/Impact Dashboard.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Impact Dashboard"
+            }
+          },
+          {
+            "id": "9c442e2c236d806d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "0c5189bde92a82b2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {},
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "947c3226cb9285ac",
+  "lastOpenFiles": [
+    "Overview and Vision/Mission Statement.md",
+    "Index.md",
+    "Transparency and Trust/Impact Dashboard.md",
+    "Technical Implementation/Hedera Integration.md",
+    "Real-World Integration/Real-World Integration.md",
+    "Real-World Integration/Project Workflow.md",
+    "Real-World Integration/Farmer Heroes.md",
+    "Overview and Vision/Impact Goals.md",
+    "Governance Framework/Merit-Based Voting.md",
+    "Governance Framework/Fund Allocation.md",
+    "Gameplay Design/Starting Experience.md",
+    "Core Tokens and Economy/Sustainability Tokens.md",
+    "Core Tokens and Economy/Carbon Points.md",
+    "Core Tokens and Economy/Buberry Coin.md"
+  ]
+}
