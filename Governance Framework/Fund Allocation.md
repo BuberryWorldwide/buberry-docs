@@ -54,5 +54,5 @@ The fund allocation process is designed to balance community input with accounta
 
 ## Related Pages
 
-- Learn about the governance system that enables voting: [[Merit-Based Voting]]
+- Learn about the governance system that enables voting: [Merit-Based Voting](./Merit-Based Voting.md)
 - Explore how funded projects are validated and monitored: [[Project Workflow]]

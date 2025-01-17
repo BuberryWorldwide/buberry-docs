@@ -64,5 +64,5 @@ Carbon Points are directly tied to measurable sustainability outcomes:
 
 ## Related Pages
 
-- Learn more about how these points tie into governance: [[Merit-Based Voting]]
+- Learn more about how these points tie into governance: [Merit-Based Voting](./Merit-Based Voting.md)
 - Discover how Carbon Points are tracked in real-world projects: [[Project Workflow]]

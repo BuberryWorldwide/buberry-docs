@@ -80,5 +80,5 @@ The post-funding phase focuses on measuring impact and ensuring long-term accoun
 
 ## Related Pages
 
-- Explore how funds are allocated: [[Fund Allocation]]
+- Explore how funds are allocated: [Fund Allocation](./Fund Allocation.md)
 - Learn about data tracking and visualization: [[Impact Dashboard]]

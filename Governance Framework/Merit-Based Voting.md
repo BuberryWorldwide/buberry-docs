@@ -8,7 +8,7 @@ Merit-Based Voting in the Buberry Worldwide ecosystem ensures that governance de
 
 The voting system operates through a straightforward, merit-based process:
 
-### Step 1: Earn [[Carbon Points]]
+### Step 1: Earn [Carbon Points](./Carbon Points.md)
 
 - Players perform in-game actions such as planting saplings, improving land, or participating in sustainability challenges.
 - These actions generate [[Metric Tokens]], such as Carbon Points, reflecting their contributions.
@@ -63,5 +63,5 @@ Transparency is a cornerstone of the Merit-Based Voting system, ensuring fairnes
 
 ## Related Pages
 
-- Discover how funds are allocated post-voting: [[Fund Allocation]]
+- Discover how funds are allocated post-voting: [Fund Allocation](./Fund Allocation.md)
 - See the user-facing voting results: [[Impact Dashboard]]

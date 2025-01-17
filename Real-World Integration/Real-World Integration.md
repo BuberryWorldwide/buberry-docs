@@ -69,5 +69,5 @@ To enhance engagement and improve data accuracy, the platform encourages players
 
 ## Related Pages
 
-- Learn about Farmer Heroes and their projects: [[Farmer Heroes]]
+- Learn about Farmer Heroes and their projects: [Farmer Heroes](./Farmer Heroes.md)
 - Explore how metrics are tracked and visualized: [[Impact Dashboard]].

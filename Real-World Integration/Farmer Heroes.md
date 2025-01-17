@@ -58,5 +58,5 @@ Farmer Heroes receive comprehensive support to help scale their initiatives:
 
 ## Related Pages
 
-- Learn about project workflows for Farmer Heroes: [[Project Workflow]]
+- Learn about project workflows for Farmer Heroes: [Project Workflow](./Project Workflow.md)
 - Understand how contributors are recognized: [[Proof of Contribution]]
